@@ -6,3 +6,6 @@
  div.observablehq form label {
     font-weight: normal;
  }
+div.observablehq h1 {
+    display: none;
+}
